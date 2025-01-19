@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "strict": true,
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true,
+    "types": ["node", "express"]
+  },
+  "include": [
+    "src/**/*.ts",
+    "src/types/**/*.d.ts",
+    "src/services/google_calendar.ts"
+  ],
+  "exclude": ["node_modules"]
+}
