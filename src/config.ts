@@ -1,7 +1,7 @@
 const env = {
   CLAVE_SECRETA: "Jose_Dev_2025_secret",
   PUERT0: 3900,
-  CONNECTION_STRING: "mongodb://localhost:27017/<Poner tu BD>",
+  CONNECTION_STRING: "mongodb://localhost:27017/<poner tu BD>",
   
 
   NAMEAPP: "Jose_Dev",
@@ -10,8 +10,8 @@ const env = {
     host: "smtppro.zoho.com",
     port: 465,
     secure: true,
-    user: "hello@astropalmapp.com",
-    password: "Difficul_21DE12",
+    user: "solicitar en la pagina oficial",
+    password: "solicitar en la pagina oficial",
   },
 
   //GPT
